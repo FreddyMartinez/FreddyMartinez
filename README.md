@@ -1,8 +1,8 @@
-### Hi there! I'm glad to see you here! 👋
+## Hi there! I'm glad to see you here! 👋
 
-# My name is Freddy, I'm an enthusiastic engineer who enjoys breathing, eating, and programming. If you have an interesting project in mind, don't hesitate to reach me out, I'm always eager to learn new things.
+#### My name is Freddy, I'm an enthusiastic engineer who enjoys breathing, eating and programming. If you have an interesting project in mind, don't hesitate to reach me out, I'm always eager to learn new things.
 
-## 🛠 Languages and Tools
+### 🛠 Languages and Tools
 
 [<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img alt="CSS" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
@@ -15,7 +15,7 @@
 [<img alt="Git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Git]
 [<img alt="GitHub" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 
-## 📚 Learning Right Now
+### 📚 Learning Right Now
 
 [<img alt="P5js" width="58" src="https://p5js.org/assets/img/p5js.svg" />][P5js]
 [<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node][<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
