@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Note: let's be honest, I put git and github in because the icons are nice, we know there are only about five commands to memorize, everything else can be googled.
 
 <!-- Reference URLs -->
 [HTML]: https://github.com/search?q=html
