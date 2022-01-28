@@ -15,13 +15,13 @@
 [<img alt="Git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Git]
 [<img alt="GitHub" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 [<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
+[<img alt="Golang" width="58" height=58 src="https://www.logo.wine/a/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.svg" />][Golang]
 
 ### 📚 Learning Right Now
 
 [<img alt="P5js" width="58" height=58 src="https://p5js.org/assets/img/p5js.svg" />][P5js]
 [<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img alt="Graphql" width="58" src="https://graphql.org/img/logo.svg" />][Graphql]
-[<img alt="Golang" width="58" height=58 src="https://golang.org/lib/godoc/images/go-logo-blue.svg" />][Golang]
 
 <!--
 **FreddyMartinez/FreddyMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
